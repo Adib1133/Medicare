@@ -389,10 +389,3 @@ MIT License - See LICENSE file
 
 ---
 
-<div align="center">
-
-**Made with ❤️ by the MediCare Team**
-
-⭐ Star this repo if you found it helpful!
-
-</div>
