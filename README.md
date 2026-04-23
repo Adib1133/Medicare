@@ -380,12 +380,3 @@ REACT_APP_API_URL=http://localhost:5000/api
 ## 🤝 Contributing
 
 Contributions welcome! Fork the repo and submit pull requests.
-
----
-
-## 📄 License
-
-MIT License - See LICENSE file
-
----
-
